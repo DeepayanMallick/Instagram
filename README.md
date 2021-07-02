@@ -10,4 +10,5 @@ It's an Instagram clone project using Laravel
 4. configure `.env`
 5. run `php artisan migrate`
 6. run `php artisan serve`
+7. Test project
 
